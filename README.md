@@ -70,13 +70,17 @@ Minimalist social media concept with modern UI direction.
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Greeezzz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Greeezzz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greeezzz&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Greeezzz&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Greeezzz&theme=tokyonight" height="150"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Greeezzz&theme=tokyonight" height="150"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Greeezzz&theme=tokyonight" height="150"/>
 
 </div>
 
