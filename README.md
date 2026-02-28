@@ -70,12 +70,13 @@ Minimalist social media concept with modern UI direction.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Greeezzz&show_icons=true&theme=radical&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greeezzz&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Greeezzz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Greeezzz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Greeezzz&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Greeezzz&theme=tokyonight&hide_border=true" />
 
 </div>
 
