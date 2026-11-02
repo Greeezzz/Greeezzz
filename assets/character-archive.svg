@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 304" width="900" height="304" role="img" aria-label="Character card series, ongoing editorial archive made in Figma"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+.rise{opacity:0;transform:translateY(14px);animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{to{opacity:1;transform:translateY(0)}}
+.d1{animation-delay:.2s}.d2{animation-delay:.45s}.d3{animation-delay:.7s}.d4{animation-delay:.95s}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.4s ease-out .1s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.blink{animation:blink 1.2s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+.spin{animation:spin 24s linear infinite}
+.spin2{animation:spin 9s linear infinite}
+.spinr{animation:spinr 40s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+.float{animation:float 3.2s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.breathe{animation:breathe 4s ease-in-out infinite}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+</style><rect width="900" height="304" fill="#0b0b0d"/>
+<g transform="translate(40 30)"><g class="float" style="animation-delay:0.0s">
+<rect width="190" height="238" fill="#111114" stroke="#2a2a30"/>
+<text class="mono" x="12" y="22" font-size="9" letter-spacing="2" fill="#8a8a92">FIG. A</text>
+<circle cx="124" cy="100" r="58" fill="#c0392b" fill-opacity=".92"/>
+<circle cx="124" cy="100" r="74" fill="none" stroke="#c0392b" stroke-opacity=".35" stroke-dasharray="3 7"/>
+<line x1="12" y1="176" x2="178" y2="176" stroke="#f2efe9" stroke-opacity=".3"/>
+<rect x="12" y="192" width="124" height="4" fill="#f2efe9" fill-opacity=".28"/>
+<rect x="12" y="204" width="84" height="4" fill="#f2efe9" fill-opacity=".18"/>
+<circle class="pulse" style="animation-delay:0.0s" cx="40" cy="138" r="2.6" fill="#f2efe9"/>
+</g></g><g transform="translate(254 30)"><g class="float" style="animation-delay:0.5s">
+<rect width="190" height="238" fill="#111114" stroke="#2a2a30"/>
+<text class="mono" x="12" y="22" font-size="9" letter-spacing="2" fill="#8a8a92">FIG. B</text>
+<circle cx="124" cy="100" r="58" fill="#F4B8CC" fill-opacity=".92"/>
+<circle cx="124" cy="100" r="74" fill="none" stroke="#F4B8CC" stroke-opacity=".35" stroke-dasharray="3 7"/>
+<line x1="12" y1="176" x2="178" y2="176" stroke="#f2efe9" stroke-opacity=".3"/>
+<rect x="12" y="192" width="124" height="4" fill="#f2efe9" fill-opacity=".28"/>
+<rect x="12" y="204" width="84" height="4" fill="#f2efe9" fill-opacity=".18"/>
+<circle class="pulse" style="animation-delay:0.5s" cx="40" cy="138" r="2.6" fill="#f2efe9"/>
+</g></g><g transform="translate(468 30)"><g class="float" style="animation-delay:1.0s">
+<rect width="190" height="238" fill="#111114" stroke="#2a2a30"/>
+<text class="mono" x="12" y="22" font-size="9" letter-spacing="2" fill="#8a8a92">FIG. C</text>
+<circle cx="124" cy="100" r="58" fill="#7091F0" fill-opacity=".92"/>
+<circle cx="124" cy="100" r="74" fill="none" stroke="#7091F0" stroke-opacity=".35" stroke-dasharray="3 7"/>
+<line x1="12" y1="176" x2="178" y2="176" stroke="#f2efe9" stroke-opacity=".3"/>
+<rect x="12" y="192" width="124" height="4" fill="#f2efe9" fill-opacity=".28"/>
+<rect x="12" y="204" width="84" height="4" fill="#f2efe9" fill-opacity=".18"/>
+<circle class="pulse" style="animation-delay:1.0s" cx="40" cy="138" r="2.6" fill="#f2efe9"/>
+</g></g>
+<text class="mono" x="690" y="46" font-size="10" letter-spacing="2.5" fill="#8a8a92">SERIES / ONGOING</text>
+<circle class="pulse" cx="842" cy="42" r="4" fill="#c0392b"/>
+<line class="draw" x1="690" y1="58" x2="860" y2="58" stroke="#c0392b" stroke-width="2"/>
+<text class="serif rise d2" x="690" y="108" font-size="34" font-weight="700" fill="#f2efe9">Character</text>
+<text class="serif rise d3" x="690" y="146" font-size="34" font-style="italic" fill="#F4B8CC">Archive.</text>
+<text class="mono rise d4" x="690" y="186" font-size="10" letter-spacing="1" fill="#a0a0a8">1080 x 1350 / FIGMA</text>
+<text class="mono rise d4" x="690" y="204" font-size="10" letter-spacing="1" fill="#a0a0a8">ONE COLOR POP PER CARD</text>
+<text class="mono rise d4" x="690" y="222" font-size="10" letter-spacing="1" fill="#a0a0a8">SPACE MONO + GEORGIA</text>
+<text class="mono rise d4" x="690" y="248" font-size="10" letter-spacing="1" fill="#7091F0">LOOK CLOSER. EVERY CARD</text>
+<text class="mono rise d4" x="690" y="262" font-size="10" letter-spacing="1" fill="#7091F0">HIDES A DETAIL.</text>
+<text class="mono" x="40" y="292" font-size="10" letter-spacing="3" fill="#55555d">ABSTRACT STUDIES / NOT THE REAL CARDS</text>
+</svg>

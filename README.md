@@ -6,13 +6,14 @@
 
 <br/>
 
-[Portfolio](https://cheloarchive.my.id) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/chelokebab10k/) &nbsp;/&nbsp; [X](https://x.com/reezz47190) &nbsp;/&nbsp; [YouTube](https://www.youtube.com/@gelutoniexdi)
+<a href="https://cheloarchive.my.id"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="22%" /></a>
+<a href="https://www.instagram.com/chelokebab10k/"><img src="assets/btn-instagram.svg" alt="Instagram" width="22%" /></a>
+<a href="https://x.com/reezz47190"><img src="assets/btn-x.svg" alt="X" width="22%" /></a>
+<a href="https://www.youtube.com/@gelutoniexdi"><img src="assets/btn-youtube.svg" alt="YouTube" width="22%" /></a>
 
 </div>
 
----
-
-## 01 &nbsp;/&nbsp; Intro
+<img src="assets/sec-01.svg" alt="01 Intro" width="100%" />
 
 Self-taught developer who started with Python and fell hard for **React**. I build interfaces the way I lay out pages: type first, spacing second, motion last.
 
@@ -20,28 +21,27 @@ Outside the editor I make editorial-style graphics: a long-running character car
 
 > Clean layout. Clear hierarchy. Smooth interaction.
 
----
-
-## 02 &nbsp;/&nbsp; Now Playing
+<img src="assets/sec-02.svg" alt="02 Now Playing" width="100%" />
 
 <div align="center">
-<img src="assets/component-tree.svg" alt="Animated component tree diagram" width="100%" />
+<img src="assets/component-tree.svg" alt="Animated React component tree diagram" width="100%" />
 </div>
 
 Everything new goes through React now. Components first, pages second, and every transition gets a say.
 
----
+<img src="assets/sec-03.svg" alt="03 Selected Work" width="100%" />
 
-## 03 &nbsp;/&nbsp; Selected Work
+<div align="center">
 
-| No. | Project | Stack | Note |
-|:---:|:--------|:------|:-----|
-| 01 | [**The Archive**](https://cheloarchive.my.id) | React | Personal portfolio with an editorial zine language: left-aligned layouts, serif and sans-serif mixed, vertical rules, ghost watermarks, one red accent. Custom cursor and page transitions included. |
-| 02 | [**Waifu Card Battle**](https://github.com/Greeezzz/Waifu-Card) | Vanilla JS | Turn-based anime strategy game concept. |
-| 03 | [**Gacha Legends**](https://github.com/Greeezzz/Gacha-Istri) | Vanilla JS | Anime-style gacha web project with a playful UI. |
+<a href="https://cheloarchive.my.id"><img src="assets/card-archive.svg" alt="The Archive, personal portfolio built in React" width="31%" /></a>
+<a href="https://github.com/Greeezzz/Waifu-Card"><img src="assets/card-waifu.svg" alt="Waifu Card Battle, turn-based strategy game" width="31%" /></a>
+<a href="https://github.com/Greeezzz/Gacha-Istri"><img src="assets/card-gacha.svg" alt="Gacha Legends, anime-style gacha web project" width="31%" /></a>
 
-**Character Card Series** &nbsp;/&nbsp; 1080 × 1350, Figma
-An ongoing archive in Space Mono and Georgia. One color pop per card, lore-accurate numbering, closing quotes pulled straight from the source. Only characters from series I've actually watched or played.
+<br/><br/>
+
+<a href="https://www.instagram.com/chelokebab10k/"><img src="assets/character-archive.svg" alt="Character card series, an ongoing editorial archive made in Figma" width="100%" /></a>
+
+</div>
 
 <details>
 <summary><b>Earlier experiments</b> (where it all started)</summary>
@@ -59,37 +59,17 @@ An ongoing archive in Space Mono and Georgia. One color pop per card, lore-accur
 
 &nbsp;&nbsp;→ &nbsp;[All repositories](https://github.com/Greeezzz?tab=repositories)
 
----
+<img src="assets/sec-04.svg" alt="04 Toolbox" width="100%" />
 
-## 04 &nbsp;/&nbsp; Toolbox
+<img src="assets/toolbox.svg" alt="Toolbox: React, JavaScript, HTML, CSS, Tailwind, Figma, Python, C++, Linux" width="100%" />
 
-```
-BUILD     React · JavaScript · HTML · CSS · Tailwind
-DESIGN    Figma
-ALSO      Python · C++ · Linux (customization addict)
-```
+<img src="assets/sec-05.svg" alt="05 Agenda" width="100%" />
 
----
-
-## 05 &nbsp;/&nbsp; Agenda
-
-```
-[ ] React, mastered properly
-[ ] Freelance UI / frontend work
-[ ] Production-level SaaS
-[ ] A real, public app
-[ ] Advanced Linux workflow
-```
-
----
+<img src="assets/agenda.svg" alt="Agenda: React mastery, freelance UI, SaaS, public app, Linux workflow" width="100%" />
 
 <div align="center">
 
-```
- Started coding with confusion.
- Stayed because of curiosity.
- Now designing with intention.
-```
+<br/>
 
 <img src="assets/ticker.svg" alt="" width="100%" />
 
