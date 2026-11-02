@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" role="img" aria-label="Animated component tree diagram">
+  <style>
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Courier New', monospace; }
+    .link { fill: none; stroke: #3a3a42; stroke-width: 1.5; stroke-dasharray: 4 6; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    .node { fill: #131316; stroke: #3a3a42; stroke-width: 1.5; animation: glow 3.6s ease-in-out infinite; }
+    .n1 { animation-delay: 0s; }
+    .n2 { animation-delay: .5s; }
+    .n3 { animation-delay: 1s; }
+    .n4 { animation-delay: 1.5s; }
+    .n5 { animation-delay: 2s; }
+    .n6 { animation-delay: 2.5s; }
+    .n7 { animation-delay: 3s; }
+    @keyframes glow {
+      0%, 70%, 100% { stroke: #3a3a42; fill: #131316; }
+      30% { stroke: #7091F0; fill: #181c2b; }
+    }
+    .label { font-size: 13px; fill: #f2efe9; text-anchor: middle; }
+    .cap { font-size: 11px; letter-spacing: 3px; fill: #55555d; }
+    .blink { animation: blink 1.4s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <rect width="900" height="270" fill="#0b0b0d" />
+
+  <!-- links -->
+  <path class="link" d="M450 56 C450 90 200 72 200 104" />
+  <path class="link" d="M450 56 L450 104" />
+  <path class="link" d="M450 56 C450 90 700 72 700 104" />
+  <path class="link" d="M450 136 C450 160 330 156 330 184" />
+  <path class="link" d="M450 136 L450 184" />
+  <path class="link" d="M450 136 C450 160 570 156 570 184" />
+
+  <!-- root -->
+  <rect class="node n1" x="390" y="24" width="120" height="32" rx="4" />
+  <text class="mono label" x="450" y="45">&lt;App /&gt;</text>
+
+  <!-- level 2 -->
+  <rect class="node n2" x="130" y="104" width="140" height="32" rx="4" />
+  <text class="mono label" x="200" y="125">&lt;Header /&gt;</text>
+  <rect class="node n3" x="380" y="104" width="140" height="32" rx="4" />
+  <text class="mono label" x="450" y="125">&lt;Main /&gt;</text>
+  <rect class="node n4" x="630" y="104" width="140" height="32" rx="4" />
+  <text class="mono label" x="700" y="125">&lt;Footer /&gt;</text>
+
+  <!-- level 3 -->
+  <rect class="node n5" x="275" y="184" width="110" height="32" rx="4" />
+  <text class="mono label" x="330" y="205">&lt;Card /&gt;</text>
+  <rect class="node n6" x="395" y="184" width="110" height="32" rx="4" />
+  <text class="mono label" x="450" y="205">&lt;Card /&gt;</text>
+  <rect class="node n7" x="515" y="184" width="110" height="32" rx="4" />
+  <text class="mono label" x="570" y="205">&lt;Card /&gt;</text>
+
+  <!-- caption -->
+  <text class="mono cap" x="40" y="254">FIG. 01  /  COMPONENT TREE</text>
+  <rect class="blink" x="304" y="244" width="8" height="12" fill="#F4B8CC" />
+  <text class="mono cap" x="860" y="254" text-anchor="end">STILL RENDERING</text>
+</svg>

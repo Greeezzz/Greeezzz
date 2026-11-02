@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" role="img" aria-label="React JS / UI-UX / Editorial / Figma / Frontend / GFX">
+  <style>
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'Courier New', monospace; font-weight: 700; }
+    .track { animation: scroll 16s linear infinite; }
+    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-560px); } }
+  </style>
+  <rect width="900" height="40" fill="#F4B8CC" />
+  <g class="track">
+    <text class="mono" x="0" y="26" font-size="14" fill="#0b0b0d" textLength="560" lengthAdjust="spacing">REACT JS  /  UI-UX  /  EDITORIAL  /  FIGMA  /  FRONTEND  /  GFX  /</text>
+    <text class="mono" x="560" y="26" font-size="14" fill="#0b0b0d" textLength="560" lengthAdjust="spacing">REACT JS  /  UI-UX  /  EDITORIAL  /  FIGMA  /  FRONTEND  /  GFX  /</text>
+    <text class="mono" x="1120" y="26" font-size="14" fill="#0b0b0d" textLength="560" lengthAdjust="spacing">REACT JS  /  UI-UX  /  EDITORIAL  /  FIGMA  /  FRONTEND  /  GFX  /</text>
+  </g>
+</svg>
