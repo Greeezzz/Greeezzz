@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420" role="img" aria-label="Eri, social media video downloader"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+.rise{opacity:0;transform:translateY(14px);animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{to{opacity:1;transform:translateY(0)}}
+.d1{animation-delay:.2s}.d2{animation-delay:.45s}.d3{animation-delay:.7s}.d4{animation-delay:.95s}
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.4s ease-out .1s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.blink{animation:blink 1.2s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.2}}
+.float{animation:float 3.2s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.breathe{animation:breathe 4s ease-in-out infinite}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3.6s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}30%,80%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.arrowfall{animation:arrowfall 2.4s ease-in infinite}@keyframes arrowfall{0%{transform:translateY(-20px);opacity:0}20%{opacity:1}80%{opacity:1}100%{transform:translateY(40px);opacity:0}}</style><rect width="300" height="420" fill="#344B5A"/>
+<rect x=".5" y=".5" width="299" height="419" fill="none" stroke="#2a2a30"/>
+<text class="serif" x="280" y="262" font-size="200" font-weight="700" fill="#fff" fill-opacity=".04" text-anchor="end">03</text>
+<text class="mono rise d1" x="24" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">NO. 03</text>
+<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">NEXT.JS</text>
+<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#E5C35F" stroke-width="2"/>
+<circle cx="150" cy="145" r="48" fill="none" stroke="#2a2a30" stroke-width="2"/>
+<circle cx="150" cy="145" r="42" fill="none" stroke="#E5C35F" stroke-width="1.5" stroke-dasharray="6 4" class="pulse"/>
+<g class="arrowfall" style="animation-delay:0s"><path d="M150 115 V155 M140 145 L150 155 L160 145" fill="none" stroke="#E5C35F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="arrowfall" style="animation-delay:.8s"><path d="M150 115 V155 M140 145 L150 155 L160 145" fill="none" stroke="#E5C35F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="arrowfall" style="animation-delay:1.6s"><path d="M150 115 V155 M140 145 L150 155 L160 145" fill="none" stroke="#E5C35F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="120" y="172" width="60" height="6" fill="#2a2a30" rx="3"/>
+<rect class="bar" x="120" y="172" width="60" height="6" fill="#E5C35F" rx="3"/>
+<rect x="24" y="190" width="30" height="22" fill="none" stroke="#E5C35F"/>
+<text class="mono" x="39" y="206" font-size="12" font-weight="700" letter-spacing="1.5" fill="#E5C35F" text-anchor="middle">DL</text>
+<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#D4D8DC">Eri</text>
+<text class="serif rise d3" x="70" y="306" font-size="34" font-style="italic" fill="#E5C35F">Downloader.</text>
+<text class="mono rise d4" x="24" y="336" font-size="11.5" fill="#a0a0a8">Social media video downloader.</text><text class="mono rise d4" x="24" y="352" font-size="11.5" fill="#a0a0a8">TikTok, Instagram, YouTube.</text><text class="mono rise d4" x="24" y="368" font-size="11.5" fill="#a0a0a8">Built with Next.js + TypeScript.</text>
+<line x1="24" y1="384" x2="276" y2="384" stroke="#2a2a30"/>
+<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#E5C35F">OPEN PROJECT</text>
+<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#E5C35F" stroke-width="1.8"/>
+</svg>

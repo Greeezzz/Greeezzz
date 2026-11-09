@@ -35,7 +35,7 @@ Everything new goes through React now. Components first, pages second, and every
 
 <a href="https://cheloarchive.my.id"><img src="assets/card-archive.svg" alt="The Archive, personal portfolio built in React" width="31%" /></a>
 <a href="https://github.com/Greeezzz/Waifu-Card"><img src="assets/card-waifu.svg" alt="Waifu Card Battle, turn-based strategy game" width="31%" /></a>
-<a href="https://github.com/Greeezzz/Gacha-Istri"><img src="assets/card-gacha.svg" alt="Gacha Legends, anime-style gacha web project" width="31%" /></a>
+<a href="https://github.com/Greeezzz/Eri"><img src="assets/card-eri.svg" alt="Eri, social media video downloader" width="31%" /></a>
 
 <br/><br/>
 
