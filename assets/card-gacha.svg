@@ -21,13 +21,13 @@
 <rect x=".5" y=".5" width="299" height="419" fill="none" stroke="#2a2a30"/>
 <text class="serif" x="280" y="262" font-size="200" font-weight="700" fill="#fff" fill-opacity=".04" text-anchor="end">03</text>
 <text class="mono rise d1" x="24" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">NO. 03</text>
-<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#D6A94D" text-anchor="end">VANILLA JS</text>
-<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#D6A94D" stroke-width="2"/>
-<circle class="ringp" style="animation-delay:0s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><circle class="ringp" style="animation-delay:1.2s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><circle class="ringp" style="animation-delay:2.4s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><g class="spin" style="transform-origin:150px 145px"><polygon points="150.0,121.0 155.9,136.9 172.8,137.6 159.5,148.1 164.1,164.4 150.0,155.0 135.9,164.4 140.5,148.1 127.2,137.6 144.1,136.9" fill="#D6A94D"/></g><g class="spin2" style="transform-origin:150px 145px"><circle cx="216" cy="145" r="4" fill="#DCE5E9"/></g><rect x="24" y="190" width="44" height="22" fill="none" stroke="#D6A94D"/><text class="mono" x="46" y="206" font-size="12" font-weight="700" letter-spacing="2" fill="#D6A94D" text-anchor="middle">SSR</text>
-<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#DCE5E9">Gacha</text>
-<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#D6A94D">Legends.</text>
+<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">VANILLA JS</text>
+<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#E5C35F" stroke-width="2"/>
+<circle class="ringp" style="animation-delay:0s" cx="150" cy="145" r="60" fill="none" stroke="#E5C35F" stroke-width="1.5"/><circle class="ringp" style="animation-delay:1.2s" cx="150" cy="145" r="60" fill="none" stroke="#E5C35F" stroke-width="1.5"/><circle class="ringp" style="animation-delay:2.4s" cx="150" cy="145" r="60" fill="none" stroke="#E5C35F" stroke-width="1.5"/><g class="spin" style="transform-origin:150px 145px"><polygon points="150.0,121.0 155.9,136.9 172.8,137.6 159.5,148.1 164.1,164.4 150.0,155.0 135.9,164.4 140.5,148.1 127.2,137.6 144.1,136.9" fill="#E5C35F"/></g><g class="spin2" style="transform-origin:150px 145px"><circle cx="216" cy="145" r="4" fill="#D4D8DC"/></g><rect x="24" y="190" width="44" height="22" fill="none" stroke="#E5C35F"/><text class="mono" x="46" y="206" font-size="12" font-weight="700" letter-spacing="2" fill="#E5C35F" text-anchor="middle">SSR</text>
+<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#D4D8DC">Gacha</text>
+<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#E5C35F">Legends.</text>
 <text class="mono rise d4" x="24" y="336" font-size="11.5" fill="#a0a0a8">Anime-style gacha web project</text><text class="mono rise d4" x="24" y="352" font-size="11.5" fill="#a0a0a8">with a playful UI. Built in</text><text class="mono rise d4" x="24" y="368" font-size="11.5" fill="#a0a0a8">vanilla JS.</text>
 <line x1="24" y1="384" x2="276" y2="384" stroke="#2a2a30"/>
-<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#D6A94D">OPEN PROJECT</text>
-<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#D6A94D" stroke-width="1.8"/>
+<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#E5C35F">OPEN PROJECT</text>
+<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#E5C35F" stroke-width="1.8"/>
 </svg>

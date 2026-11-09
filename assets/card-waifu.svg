@@ -21,25 +21,25 @@
 <rect x=".5" y=".5" width="299" height="419" fill="none" stroke="#2a2a30"/>
 <text class="serif" x="280" y="262" font-size="200" font-weight="700" fill="#fff" fill-opacity=".04" text-anchor="end">02</text>
 <text class="mono rise d1" x="24" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">NO. 02</text>
-<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#D6A94D" text-anchor="end">VANILLA JS</text>
-<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#D6A94D" stroke-width="2"/>
+<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">VANILLA JS</text>
+<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#E5C35F" stroke-width="2"/>
 <g transform="rotate(-14 150 225)"><g class="float" style="animation-delay:0s">
 <rect x="115" y="96" width="70" height="110" rx="4" fill="#131316" stroke="#2a2a30" stroke-width="1.5"/>
-<polygon points="150,135 164,151 150,167 136,151" fill="#D6A94D" fill-opacity="0.35"/>
-<rect x="124" y="186" width="30" height="3" fill="#DCE5E9" fill-opacity=".3"/>
+<polygon points="150,135 164,151 150,167 136,151" fill="#E5C35F" fill-opacity="0.35"/>
+<rect x="124" y="186" width="30" height="3" fill="#D4D8DC" fill-opacity=".3"/>
 </g></g><g transform="rotate(14 150 225)"><g class="float" style="animation-delay:0.8s">
 <rect x="115" y="96" width="70" height="110" rx="4" fill="#131316" stroke="#2a2a30" stroke-width="1.5"/>
-<polygon points="150,135 164,151 150,167 136,151" fill="#D6A94D" fill-opacity="0.35"/>
-<rect x="124" y="186" width="30" height="3" fill="#DCE5E9" fill-opacity=".3"/>
+<polygon points="150,135 164,151 150,167 136,151" fill="#E5C35F" fill-opacity="0.35"/>
+<rect x="124" y="186" width="30" height="3" fill="#D4D8DC" fill-opacity=".3"/>
 </g></g><g transform="rotate(0 150 225)"><g class="float" style="animation-delay:0.4s">
-<rect x="115" y="96" width="70" height="110" rx="4" fill="#131316" stroke="#D6A94D" stroke-width="1.5"/>
-<polygon points="150,135 164,151 150,167 136,151" fill="#D6A94D" fill-opacity="1"/>
-<rect x="124" y="186" width="30" height="3" fill="#DCE5E9" fill-opacity=".3"/>
+<rect x="115" y="96" width="70" height="110" rx="4" fill="#131316" stroke="#E5C35F" stroke-width="1.5"/>
+<polygon points="150,135 164,151 150,167 136,151" fill="#E5C35F" fill-opacity="1"/>
+<rect x="124" y="186" width="30" height="3" fill="#D4D8DC" fill-opacity=".3"/>
 </g></g>
-<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#DCE5E9">Waifu Card</text>
-<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#D6A94D">Battle.</text>
+<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#D4D8DC">Waifu Card</text>
+<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#E5C35F">Battle.</text>
 <text class="mono rise d4" x="24" y="336" font-size="11.5" fill="#a0a0a8">Turn-based anime strategy</text><text class="mono rise d4" x="24" y="352" font-size="11.5" fill="#a0a0a8">game concept. Built in</text><text class="mono rise d4" x="24" y="368" font-size="11.5" fill="#a0a0a8">vanilla JS.</text>
 <line x1="24" y1="384" x2="276" y2="384" stroke="#2a2a30"/>
-<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#D6A94D">OPEN PROJECT</text>
-<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#D6A94D" stroke-width="1.8"/>
+<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#E5C35F">OPEN PROJECT</text>
+<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#E5C35F" stroke-width="1.8"/>
 </svg>

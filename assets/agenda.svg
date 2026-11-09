@@ -19,11 +19,11 @@
 @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
 .fill{transform-box:fill-box;transform-origin:left center;animation:fillbar 4s ease-in-out infinite}@keyframes fillbar{0%{transform:scaleX(.1)}60%,85%{transform:scaleX(.7)}100%{transform:scaleX(.1)}}</style><rect width="900" height="290" fill="#344B5A"/>
 <line x1="40" y1="64" x2="860" y2="64" stroke="#2a2a30"/>
-<rect x="40" y="28" width="22" height="22" fill="none" stroke="#D6A94D" stroke-width="1.5"/>
-<rect class="pulse" x="46" y="34" width="10" height="10" fill="#D6A94D"/>
-<text class="serif rise d1" x="80" y="48" font-size="24" fill="#DCE5E9" font-weight="700">React, mastered properly</text>
-<text class="mono" x="860" y="46" font-size="11" letter-spacing="3" fill="#D6A94D" text-anchor="end">IN PROGRESS</text>
-<rect x="660" y="56" width="200" height="3" fill="#2a2a30"/><rect class="fill" x="660" y="56" width="200" height="3" fill="#D6A94D"/>
+<rect x="40" y="28" width="22" height="22" fill="none" stroke="#E5C35F" stroke-width="1.5"/>
+<rect class="pulse" x="46" y="34" width="10" height="10" fill="#E5C35F"/>
+<text class="serif rise d1" x="80" y="48" font-size="24" fill="#D4D8DC" font-weight="700">React, mastered properly</text>
+<text class="mono" x="860" y="46" font-size="11" letter-spacing="3" fill="#E5C35F" text-anchor="end">IN PROGRESS</text>
+<rect x="660" y="56" width="200" height="3" fill="#2a2a30"/><rect class="fill" x="660" y="56" width="200" height="3" fill="#E5C35F"/>
 
 <line x1="40" y1="116" x2="860" y2="116" stroke="#2a2a30"/>
 <rect x="40" y="80" width="22" height="22" fill="none" stroke="#2a2a30" stroke-width="1.5"/>
