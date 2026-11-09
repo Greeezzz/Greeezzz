@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="GitHub Stats"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="GitHub Stats"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
 .rise{opacity:0;transform:translateY(14px);animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
 @keyframes rise{to{opacity:1;transform:translateY(0)}}
 .d1{animation-delay:.2s}.d2{animation-delay:.35s}.d3{animation-delay:.5s}.d4{animation-delay:.65s}
@@ -9,36 +9,36 @@
 .bar{transform-box:fill-box;transform-origin:left center;animation:bar 3s ease-in-out infinite}
 @keyframes bar{0%{transform:scaleX(0)}50%{transform:scaleX(1)}100%{transform:scaleX(0)}}
 </style>
-<rect width="900" height="200" fill="#344B5A"/>
-<rect x=".5" y=".5" width="899" height="199" fill="none" stroke="#2a2a30"/>
+<rect width="900" height="160" fill="#344B5A"/>
+<rect x=".5" y=".5" width="899" height="159" fill="none" stroke="#2a2a30"/>
 
-<text class="mono rise d1" x="40" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">GITHUB METRICS</text>
-<text class="mono rise d1" x="860" y="36" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">ACTIVITY</text>
-<line class="draw" x1="40" y1="50" x2="860" y2="50" stroke="#E5C35F" stroke-width="2"/>
+<text class="mono rise d1" x="40" y="30" font-size="11" letter-spacing="2.5" fill="#8a8a92">GITHUB METRICS</text>
+<text class="mono rise d1" x="860" y="30" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">ACTIVITY</text>
+<line class="draw" x1="40" y1="42" x2="860" y2="42" stroke="#E5C35F" stroke-width="2"/>
 
 <!-- Stat 1: Total Commits -->
-<g class="rise d2" transform="translate(40, 75)">
-  <text class="mono" x="0" y="20" font-size="12" letter-spacing="2" fill="#8a8a92">TOTAL COMMITS</text>
-  <text class="serif" x="0" y="65" font-size="38" font-weight="700" fill="#D4D8DC">240+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="220" height="4" fill="#E5C35F" rx="2"/>
+<g class="rise d2" transform="translate(40, 58)">
+  <text class="mono" x="0" y="16" font-size="10" letter-spacing="2" fill="#8a8a92">TOTAL COMMITS</text>
+  <text class="serif" x="0" y="48" font-size="28" font-weight="700" fill="#D4D8DC">240+</text>
+  <rect x="0" y="60" width="250" height="3" fill="#2a2a30" rx="1.5"/>
+  <rect class="bar" x="0" y="60" width="250" height="3" fill="#E5C35F" rx="1.5"/>
 </g>
 
 <!-- Stat 2: Pull Requests -->
-<g class="rise d3" transform="translate(340, 75)">
-  <text class="mono" x="0" y="20" font-size="12" letter-spacing="2" fill="#8a8a92">PULL REQUESTS</text>
-  <text class="serif" x="0" y="65" font-size="38" font-weight="700" fill="#D4D8DC">45+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="180" height="4" fill="#E5C35F" rx="2" style="animation-delay:.5s"/>
+<g class="rise d3" transform="translate(325, 58)">
+  <text class="mono" x="0" y="16" font-size="10" letter-spacing="2" fill="#8a8a92">PULL REQUESTS</text>
+  <text class="serif" x="0" y="48" font-size="28" font-weight="700" fill="#D4D8DC">45+</text>
+  <rect x="0" y="60" width="250" height="3" fill="#2a2a30" rx="1.5"/>
+  <rect class="bar" x="0" y="60" width="190" height="3" fill="#E5C35F" rx="1.5" style="animation-delay:.5s"/>
 </g>
 
 <!-- Stat 3: Repositories -->
-<g class="rise d4" transform="translate(640, 75)">
-  <text class="mono" x="0" y="20" font-size="12" letter-spacing="2" fill="#8a8a92">REPOSITORIES</text>
-  <text class="serif" x="0" y="65" font-size="38" font-weight="700" fill="#D4D8DC">15+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="150" height="4" fill="#E5C35F" rx="2" style="animation-delay:1s"/>
+<g class="rise d4" transform="translate(610, 58)">
+  <text class="mono" x="0" y="16" font-size="10" letter-spacing="2" fill="#8a8a92">REPOSITORIES</text>
+  <text class="serif" x="0" y="48" font-size="28" font-weight="700" fill="#D4D8DC">15+</text>
+  <rect x="0" y="60" width="250" height="3" fill="#2a2a30" rx="1.5"/>
+  <rect class="bar" x="0" y="60" width="160" height="3" fill="#E5C35F" rx="1.5" style="animation-delay:1s"/>
 </g>
 
-<circle class="pulse" cx="450" cy="36" r="3" fill="#E5C35F"/>
+<circle class="pulse" cx="450" cy="30" r="3" fill="#E5C35F"/>
 </svg>
