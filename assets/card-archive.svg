@@ -17,17 +17,17 @@
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 .breathe{animation:breathe 4s ease-in-out infinite}
 @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
-.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3.6s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}30%,80%{transform:scaleX(1)}100%{transform:scaleX(0)}}.ringp{transform-origin:150px 145px;animation:ringp 3.6s ease-out infinite}@keyframes ringp{0%{transform:scale(.4);opacity:.9}100%{transform:scale(1.5);opacity:0}}</style><rect width="300" height="420" fill="#0b0b0d"/>
+.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3.6s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}30%,80%{transform:scaleX(1)}100%{transform:scaleX(0)}}.ringp{transform-origin:150px 145px;animation:ringp 3.6s ease-out infinite}@keyframes ringp{0%{transform:scale(.4);opacity:.9}100%{transform:scale(1.5);opacity:0}}</style><rect width="300" height="420" fill="#344B5A"/>
 <rect x=".5" y=".5" width="299" height="419" fill="none" stroke="#2a2a30"/>
 <text class="serif" x="280" y="262" font-size="200" font-weight="700" fill="#fff" fill-opacity=".04" text-anchor="end">01</text>
 <text class="mono rise d1" x="24" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">NO. 01</text>
-<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#c0392b" text-anchor="end">REACT</text>
-<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#c0392b" stroke-width="2"/>
-<rect class="bar" style="animation-delay:0s" x="24" y="80" width="220" height="8" fill="#f2efe9" fill-opacity=".85"/><rect class="bar" style="animation-delay:0.3s" x="24" y="102" width="150" height="8" fill="#f2efe9" fill-opacity=".25"/><rect class="bar" style="animation-delay:0.6s" x="24" y="124" width="190" height="8" fill="#f2efe9" fill-opacity=".25"/><rect class="bar" style="animation-delay:0.9s" x="24" y="146" width="120" height="8" fill="#f2efe9" fill-opacity=".25"/><text class="serif" x="24" y="214" font-size="84" font-weight="700" fill="#c0392b">Aa</text><text class="mono" x="276" y="208" font-size="10" letter-spacing="2" fill="#8a8a92" text-anchor="end">SERIF + SANS</text><rect class="blink" x="250" y="170" width="26" height="4" fill="#c0392b"/>
-<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#f2efe9">The</text>
-<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#c0392b">Archive.</text>
+<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#D6A94D" text-anchor="end">REACT</text>
+<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#D6A94D" stroke-width="2"/>
+<rect class="bar" style="animation-delay:0s" x="24" y="80" width="220" height="8" fill="#DCE5E9" fill-opacity=".85"/><rect class="bar" style="animation-delay:0.3s" x="24" y="102" width="150" height="8" fill="#DCE5E9" fill-opacity=".25"/><rect class="bar" style="animation-delay:0.6s" x="24" y="124" width="190" height="8" fill="#DCE5E9" fill-opacity=".25"/><rect class="bar" style="animation-delay:0.9s" x="24" y="146" width="120" height="8" fill="#DCE5E9" fill-opacity=".25"/><text class="serif" x="24" y="214" font-size="84" font-weight="700" fill="#D6A94D">Aa</text><text class="mono" x="276" y="208" font-size="10" letter-spacing="2" fill="#8a8a92" text-anchor="end">SERIF + SANS</text><rect class="blink" x="250" y="170" width="26" height="4" fill="#D6A94D"/>
+<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#DCE5E9">The</text>
+<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#D6A94D">Archive.</text>
 <text class="mono rise d4" x="24" y="336" font-size="11.5" fill="#a0a0a8">Personal portfolio in React with</text><text class="mono rise d4" x="24" y="352" font-size="11.5" fill="#a0a0a8">an editorial zine layout and</text><text class="mono rise d4" x="24" y="368" font-size="11.5" fill="#a0a0a8">custom cursor + transitions.</text>
 <line x1="24" y1="384" x2="276" y2="384" stroke="#2a2a30"/>
-<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#c0392b">OPEN PROJECT</text>
-<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#c0392b" stroke-width="1.8"/>
+<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#D6A94D">OPEN PROJECT</text>
+<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#D6A94D" stroke-width="1.8"/>
 </svg>

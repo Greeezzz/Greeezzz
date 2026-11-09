@@ -13,15 +13,15 @@
     .n7 { animation-delay: 3s; }
     @keyframes glow {
       0%, 70%, 100% { stroke: #3a3a42; fill: #131316; }
-      30% { stroke: #7091F0; fill: #181c2b; }
+      30% { stroke: #D6A94D; fill: #181c2b; }
     }
-    .label { font-size: 13px; fill: #f2efe9; text-anchor: middle; }
+    .label { font-size: 13px; fill: #DCE5E9; text-anchor: middle; }
     .cap { font-size: 11px; letter-spacing: 3px; fill: #55555d; }
     .blink { animation: blink 1.4s step-end infinite; }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
 
-  <rect width="900" height="270" fill="#0b0b0d" />
+  <rect width="900" height="270" fill="#344B5A" />
 
   <!-- links -->
   <path class="link" d="M450 56 C450 90 200 72 200 104" />
@@ -53,6 +53,6 @@
 
   <!-- caption -->
   <text class="mono cap" x="40" y="254">FIG. 01  /  COMPONENT TREE</text>
-  <rect class="blink" x="304" y="244" width="8" height="12" fill="#F4B8CC" />
+  <rect class="blink" x="304" y="244" width="8" height="12" fill="#D6A94D" />
   <text class="mono cap" x="860" y="254" text-anchor="end">STILL RENDERING</text>
 </svg>

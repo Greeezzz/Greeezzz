@@ -17,17 +17,17 @@
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 .breathe{animation:breathe 4s ease-in-out infinite}
 @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
-.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3.6s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}30%,80%{transform:scaleX(1)}100%{transform:scaleX(0)}}.ringp{transform-origin:150px 145px;animation:ringp 3.6s ease-out infinite}@keyframes ringp{0%{transform:scale(.4);opacity:.9}100%{transform:scale(1.5);opacity:0}}</style><rect width="300" height="420" fill="#0b0b0d"/>
+.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3.6s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}30%,80%{transform:scaleX(1)}100%{transform:scaleX(0)}}.ringp{transform-origin:150px 145px;animation:ringp 3.6s ease-out infinite}@keyframes ringp{0%{transform:scale(.4);opacity:.9}100%{transform:scale(1.5);opacity:0}}</style><rect width="300" height="420" fill="#344B5A"/>
 <rect x=".5" y=".5" width="299" height="419" fill="none" stroke="#2a2a30"/>
 <text class="serif" x="280" y="262" font-size="200" font-weight="700" fill="#fff" fill-opacity=".04" text-anchor="end">03</text>
 <text class="mono rise d1" x="24" y="36" font-size="11" letter-spacing="2.5" fill="#8a8a92">NO. 03</text>
-<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#7091F0" text-anchor="end">VANILLA JS</text>
-<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#7091F0" stroke-width="2"/>
-<circle class="ringp" style="animation-delay:0s" cx="150" cy="145" r="60" fill="none" stroke="#7091F0" stroke-width="1.5"/><circle class="ringp" style="animation-delay:1.2s" cx="150" cy="145" r="60" fill="none" stroke="#7091F0" stroke-width="1.5"/><circle class="ringp" style="animation-delay:2.4s" cx="150" cy="145" r="60" fill="none" stroke="#7091F0" stroke-width="1.5"/><g class="spin" style="transform-origin:150px 145px"><polygon points="150.0,121.0 155.9,136.9 172.8,137.6 159.5,148.1 164.1,164.4 150.0,155.0 135.9,164.4 140.5,148.1 127.2,137.6 144.1,136.9" fill="#7091F0"/></g><g class="spin2" style="transform-origin:150px 145px"><circle cx="216" cy="145" r="4" fill="#f2efe9"/></g><rect x="24" y="190" width="44" height="22" fill="none" stroke="#7091F0"/><text class="mono" x="46" y="206" font-size="12" font-weight="700" letter-spacing="2" fill="#7091F0" text-anchor="middle">SSR</text>
-<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#f2efe9">Gacha</text>
-<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#7091F0">Legends.</text>
+<text class="mono rise d1" x="276" y="36" font-size="11" letter-spacing="2.5" fill="#D6A94D" text-anchor="end">VANILLA JS</text>
+<line class="draw" x1="24" y1="50" x2="276" y2="50" stroke="#D6A94D" stroke-width="2"/>
+<circle class="ringp" style="animation-delay:0s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><circle class="ringp" style="animation-delay:1.2s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><circle class="ringp" style="animation-delay:2.4s" cx="150" cy="145" r="60" fill="none" stroke="#D6A94D" stroke-width="1.5"/><g class="spin" style="transform-origin:150px 145px"><polygon points="150.0,121.0 155.9,136.9 172.8,137.6 159.5,148.1 164.1,164.4 150.0,155.0 135.9,164.4 140.5,148.1 127.2,137.6 144.1,136.9" fill="#D6A94D"/></g><g class="spin2" style="transform-origin:150px 145px"><circle cx="216" cy="145" r="4" fill="#DCE5E9"/></g><rect x="24" y="190" width="44" height="22" fill="none" stroke="#D6A94D"/><text class="mono" x="46" y="206" font-size="12" font-weight="700" letter-spacing="2" fill="#D6A94D" text-anchor="middle">SSR</text>
+<text class="serif rise d3" x="24" y="268" font-size="34" font-weight="700" fill="#DCE5E9">Gacha</text>
+<text class="serif rise d3" x="24" y="306" font-size="34" font-style="italic" fill="#D6A94D">Legends.</text>
 <text class="mono rise d4" x="24" y="336" font-size="11.5" fill="#a0a0a8">Anime-style gacha web project</text><text class="mono rise d4" x="24" y="352" font-size="11.5" fill="#a0a0a8">with a playful UI. Built in</text><text class="mono rise d4" x="24" y="368" font-size="11.5" fill="#a0a0a8">vanilla JS.</text>
 <line x1="24" y1="384" x2="276" y2="384" stroke="#2a2a30"/>
-<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#7091F0">OPEN PROJECT</text>
-<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#7091F0" stroke-width="1.8"/>
+<text class="mono" x="24" y="406" font-size="11" letter-spacing="2.5" fill="#D6A94D">OPEN PROJECT</text>
+<path d="M254 401 H274 M267 394 L274 401 L267 408" fill="none" stroke="#D6A94D" stroke-width="1.8"/>
 </svg>

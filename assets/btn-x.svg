@@ -17,9 +17,9 @@
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
 .breathe{animation:breathe 4s ease-in-out infinite}
 @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.08)}}
-.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}45%,70%{transform:scaleX(1)}100%{transform:scaleX(0)}}</style><rect width="200" height="44" fill="#0b0b0d"/>
+.bar{transform-box:fill-box;transform-origin:left center;animation:bar 3s ease-in-out infinite}@keyframes bar{0%{transform:scaleX(0)}45%,70%{transform:scaleX(1)}100%{transform:scaleX(0)}}</style><rect width="200" height="44" fill="#344B5A"/>
 <rect x=".5" y=".5" width="199" height="43" fill="none" stroke="#2a2a30"/>
-<rect class="bar" x="1" y="40" width="198" height="3" fill="#7091F0"/>
-<text class="mono" x="20" y="27" font-size="12" letter-spacing="3" fill="#f2efe9">X / TWITTER</text>
-<path d="M164 22 H182 M175 15 L182 22 L175 29" fill="none" stroke="#7091F0" stroke-width="1.8"/>
+<rect class="bar" x="1" y="40" width="198" height="3" fill="#D6A94D"/>
+<text class="mono" x="20" y="27" font-size="12" letter-spacing="3" fill="#DCE5E9">X / TWITTER</text>
+<path d="M164 22 H182 M175 15 L182 22 L175 29" fill="none" stroke="#D6A94D" stroke-width="1.8"/>
 </svg>
