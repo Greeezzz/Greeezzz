@@ -1,36 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-label="GitHub Stats"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="GitHub Stats"><style>.mono{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,'Courier New',monospace}.serif{font-family:Georgia,'Times New Roman',serif}
 .bar{transform-box:fill-box;transform-origin:left center;animation:bar 3s ease-in-out infinite}
 @keyframes bar{0%{transform:scaleX(0)}50%{transform:scaleX(1)}100%{transform:scaleX(0)}}
 </style>
-<rect width="800" height="240" fill="#344B5A"/>
-<rect x="0" y="0" width="800" height="240" fill="none" stroke="#2a2a30" stroke-width="2"/>
+<rect width="900" height="160" fill="#344B5A"/>
+<rect x="0" y="0" width="900" height="160" fill="none" stroke="#2a2a30" stroke-width="2"/>
 
 <!-- Header -->
-<text class="mono" x="40" y="35" font-size="12" letter-spacing="3" fill="#8a8a92">GITHUB METRICS</text>
-<text class="mono" x="760" y="35" font-size="12" letter-spacing="3" fill="#E5C35F" text-anchor="end">ACTIVITY</text>
-<line x1="40" y1="50" x2="760" y2="50" stroke="#E5C35F" stroke-width="2"/>
+<text class="mono" x="40" y="30" font-size="11" letter-spacing="2.5" fill="#8a8a92">GITHUB METRICS</text>
+<text class="mono" x="860" y="30" font-size="11" letter-spacing="2.5" fill="#E5C35F" text-anchor="end">ACTIVITY</text>
+<line x1="40" y1="42" x2="860" y2="42" stroke="#E5C35F" stroke-width="2"/>
 
-<!-- Box 1: Commits -->
-<g transform="translate(40, 75)">
-  <text class="mono" x="0" y="20" font-size="11" letter-spacing="2" fill="#8a8a92">TOTAL COMMITS</text>
-  <text class="serif" x="0" y="65" font-size="36" font-weight="700" fill="#D4D8DC">240+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="220" height="4" fill="#E5C35F" rx="2"/>
-</g>
+<!-- Column 1 -->
+<text class="mono" x="40" y="72" font-size="10" letter-spacing="2" fill="#8a8a92">TOTAL COMMITS</text>
+<text class="serif" x="40" y="112" font-size="32" font-weight="700" fill="#D4D8DC">240+</text>
+<rect x="40" y="126" width="240" height="4" fill="#2a2a30" rx="2"/>
+<rect class="bar" x="40" y="126" width="240" height="4" fill="#E5C35F" rx="2"/>
 
-<!-- Box 2: PRs -->
-<g transform="translate(290, 75)">
-  <text class="mono" x="0" y="20" font-size="11" letter-spacing="2" fill="#8a8a92">PULL REQUESTS</text>
-  <text class="serif" x="0" y="65" font-size="36" font-weight="700" fill="#D4D8DC">45+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="160" height="4" fill="#E5C35F" rx="2" style="animation-delay:.5s"/>
-</g>
+<!-- Column 2 -->
+<text class="mono" x="330" y="72" font-size="10" letter-spacing="2" fill="#8a8a92">PULL REQUESTS</text>
+<text class="serif" x="330" y="112" font-size="32" font-weight="700" fill="#D4D8DC">45+</text>
+<rect x="330" y="126" width="240" height="4" fill="#2a2a30" rx="2"/>
+<rect class="bar" x="330" y="126" width="180" height="4" fill="#E5C35F" rx="2" style="animation-delay:.5s"/>
 
-<!-- Box 3: Repos -->
-<g transform="translate(540, 75)">
-  <text class="mono" x="0" y="20" font-size="11" letter-spacing="2" fill="#8a8a92">REPOSITORIES</text>
-  <text class="serif" x="0" y="65" font-size="36" font-weight="700" fill="#D4D8DC">15+</text>
-  <rect x="0" y="80" width="220" height="4" fill="#2a2a30" rx="2"/>
-  <rect class="bar" x="0" y="80" width="120" height="4" fill="#E5C35F" rx="2" style="animation-delay:1s"/>
-</g>
+<!-- Column 3 -->
+<text class="mono" x="620" y="72" font-size="10" letter-spacing="2" fill="#8a8a92">REPOSITORIES</text>
+<text class="serif" x="620" y="112" font-size="32" font-weight="700" fill="#D4D8DC">15+</text>
+<rect x="620" y="126" width="240" height="4" fill="#2a2a30" rx="2"/>
+<rect class="bar" x="620" y="126" width="130" height="4" fill="#E5C35F" rx="2" style="animation-delay:1s"/>
 </svg>
