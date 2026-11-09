@@ -6,10 +6,12 @@
 
 <br/>
 
-<a href="https://cheloarchive.my.id"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="22%" /></a>
-<a href="https://www.instagram.com/chelokebab10k/"><img src="assets/btn-instagram.svg" alt="Instagram" width="22%" /></a>
-<a href="https://x.com/reezz47190"><img src="assets/btn-x.svg" alt="X" width="22%" /></a>
-<a href="https://www.youtube.com/@gelutoniexdi"><img src="assets/btn-youtube.svg" alt="YouTube" width="22%" /></a>
+<a href="https://cheloarchive.my.id"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="18%" /></a>
+<a href="https://www.instagram.com/chelokebab10k/"><img src="assets/btn-instagram.svg" alt="Instagram" width="18%" /></a>
+<a href="https://x.com/reezz47190"><img src="assets/btn-x.svg" alt="X" width="18%" /></a>
+<a href="https://www.youtube.com/@gelutoniexdi"><img src="assets/btn-youtube.svg" alt="YouTube" width="18%" /></a>
+<a href="mailto:ychel4508@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="18%" /></a>
+<a href="https://discord.com/users/grreeedd_"><img src="assets/btn-discord.svg" alt="Discord" width="18%" /></a>
 
 </div>
 
