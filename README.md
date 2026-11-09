@@ -69,6 +69,8 @@ Everything new goes through React now. Components first, pages second, and every
 
 <img src="assets/agenda.svg" alt="Agenda: React mastery, freelance UI, SaaS, public app, Linux workflow" width="100%" />
 
+<img src="assets/stats.svg" alt="GitHub Stats: Commits, Pull Requests, Repositories" width="100%" />
+
 <div align="center">
 
 <br/>
